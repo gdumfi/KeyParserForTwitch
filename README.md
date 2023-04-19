@@ -4,14 +4,17 @@ This is a simple Python script that scans a Twitch channel's chat for activation
 
 ## Requirements ##
 
-This script requires Python 3 and the pynput library. You can install pynput by running pip install pynput.
+This script requires Python 3 and the pynput library. You can install pynput by running 
+
+** pip install pynput **
+
 
 ## Usage ##
 
 + Clone this repository to your local machine.
 + Navigate to the directory containing the script.
 + Open the script in your preferred code editor and replace the input statements with your own Twitch username, OAuth token, and the channel you want to scan.
-+ Run the script using the command python twitch_chat_key_scanner.py.
++ Run the script using the command python main.py.
 + Place your cursor on the text box where you enter the activation key.
 + The script will start scanning the chat for activation keys. When it finds one, it will automatically enter it into the text box.
 
