@@ -6,7 +6,7 @@ This is a simple Python script that scans a Twitch channel's chat for activation
 
 This script requires Python 3 and the pynput library. You can install pynput by running 
 
-** pip install pynput **
+**pip install pynput**
 
 
 ## Usage ##
